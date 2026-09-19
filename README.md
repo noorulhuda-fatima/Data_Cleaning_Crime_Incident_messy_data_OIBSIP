@@ -81,5 +81,7 @@ Jupyter Notebook — development environment
 
 ## Author
 Noor Ul Huda Fatima-Data Analytics Intern at Oasis Infobyte
+
 GitHub: [https://github.com/noorulhuda-fatima]
+
 LinkedIn: [www.linkedin.com/in/noor-ul-huda-fatima-a01382387]
